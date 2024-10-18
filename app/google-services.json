@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "688629544554",
+    "firebase_url": "https://foodproject-25b5e-default-rtdb.firebaseio.com",
+    "project_id": "foodproject-25b5e",
+    "storage_bucket": "foodproject-25b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688629544554:android:2392ee81c661c3c2007c13",
+        "android_client_info": {
+          "package_name": "ca.sample.foodrecipeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzKz-9jzafRmsvurw00x5m6yjdd8TqBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
